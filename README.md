@@ -15,7 +15,7 @@ Este exemplo demonstra a utilização de oito LEDs conectados a P2.
 
 ## Buzzer
 
-(em breve)
+Exemplo de criação de um alarme usando um buzzer
 
 ## Display de 7 Segmentos
 
